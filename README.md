@@ -6,6 +6,17 @@
  - linear regressions
  - interpollatipon - extrapollation
 
+ Unit 2:
+ - linear algebra
+ - liner equation systems
+ - non-liner equation systems
+ - Image processing
+ - Scientific data formats
+
+ Unit 3:
+ - numerical diferenciacion
+ - numerical integration
+
 ### Additional recommended material:
 Python Programming And Numerical Methods: A Guide For Engineers And Scientists:
 https://pythonnumericalmethods.studentorg.berkeley.edu/notebooks/Index.html 
