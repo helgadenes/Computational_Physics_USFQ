@@ -16,6 +16,13 @@
  Unit 3:
  - numerical diferenciacion
  - numerical integration
+ - extrema functions
+ - root finding
+
+ Unit 4:
+ - Fourier transforms
+ - Fourier series
+ - Fourier analysis of data
 
 ### Additional recommended material:
 Python Programming And Numerical Methods: A Guide For Engineers And Scientists:
