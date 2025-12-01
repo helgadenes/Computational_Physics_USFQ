@@ -24,6 +24,9 @@
  - Fourier series
  - Fourier analysis of data
 
+Unit 5:
+- Wavelet transforms
+
 ### Additional recommended material:
 Python Programming And Numerical Methods: A Guide For Engineers And Scientists:
 https://pythonnumericalmethods.studentorg.berkeley.edu/notebooks/Index.html 
