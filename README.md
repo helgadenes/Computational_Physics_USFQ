@@ -14,7 +14,7 @@
  - Scientific data formats
 
  Unit 3:
- - numerical diferenciacion
+ - numerical differentiation
  - numerical integration
  - extrema functions
  - root finding
