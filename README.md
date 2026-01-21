@@ -26,7 +26,8 @@
 
 Unit 5:
 - Wavelet transforms
-
+- Monte Carlo methods
+  
 ### Additional recommended material:
 Python Programming And Numerical Methods: A Guide For Engineers And Scientists:
 https://pythonnumericalmethods.studentorg.berkeley.edu/notebooks/Index.html 
